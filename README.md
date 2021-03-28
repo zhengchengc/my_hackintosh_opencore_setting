@@ -1,0 +1,1 @@
+# my_hackintosh_opencore_setting
