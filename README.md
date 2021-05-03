@@ -2,7 +2,7 @@
 
 Components:
 CPU: E5-1650 v3
-Motherboard:
-Memory:
-GPU:
+Motherboard: DELL T5810
+Memory: 64GB ECC
+GPU: RX580
 Disk:
